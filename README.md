@@ -17,6 +17,8 @@ WattSmart Wizard addresses the critical global issue of resource wastage and ine
 
 ![](./Prototype/Screenshot%202024-09-21%20015041.png)
 
+-------------------------------------------
+
 ### Prototype Videos
 
 [Prototype Building Video](https://drive.google.com/file/d/1tvZA3WfAX7iffpSlLtlsnMWY1TiCsKvl/view?usp=drive_link)
