@@ -27,11 +27,11 @@ WattSmart Wizard addresses the critical global issue of resource wastage and ine
 
 ### Consumption Trends
 
+![Hourly Power Consumption](./Analysed_Trends/Power_Consumption_Hourly.png)
+
 ![Power Consumption Trend](./Analysed_Trends/Power_Consumption_Trend.png)
 
 ![Energy Consumption Trend](./Analysed_Trends/Energy_Consumption_Trend.png)
-
-![Hourly Power Consumption](./Analysed_Trends/Power_Consumption_Hourly.png)
 
 ![Gauges](./Analysed_Trends/Gauges.png)
 
