@@ -25,6 +25,7 @@ WattSmart Wizard addresses the critical global issue of resource wastage and ine
 ![](./Prototype/Screenshot%202024-09-21%20015041.png)
 
 --------------------------------------------
+--------------------------------------------
 
 ### Consumption Trends
 
@@ -36,6 +37,7 @@ WattSmart Wizard addresses the critical global issue of resource wastage and ine
 
 ![Gauges](./Analysed_Trends/Gauges.png)
 
+--------------------------------------------
 --------------------------------------------
 
 ### System Architecture
