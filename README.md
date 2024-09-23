@@ -5,7 +5,7 @@ WattSmart Wizard addresses the critical global issue of resource wastage and ine
 -------------------------------------------
 -------------------------------------------
 
-### Prototype Videos
+### *Prototype Videos*
 
 [Prototype Building Video](https://drive.google.com/file/d/1tvZA3WfAX7iffpSlLtlsnMWY1TiCsKvl/view?usp=drive_link)
 
@@ -14,7 +14,7 @@ WattSmart Wizard addresses the critical global issue of resource wastage and ine
 --------------------------------------------
 --------------------------------------------
 
-### Prototype
+### *Prototype*
 
 ![](./Prototype/Screenshot%202024-09-21%20101508.png)
 
@@ -27,7 +27,7 @@ WattSmart Wizard addresses the critical global issue of resource wastage and ine
 --------------------------------------------
 --------------------------------------------
 
-### Consumption Trends
+### *Consumption Trends*
 
 ![Hourly Power Consumption](./Analysed_Trends/Power_Consumption_Hours.png)
 
@@ -40,19 +40,19 @@ WattSmart Wizard addresses the critical global issue of resource wastage and ine
 --------------------------------------------
 --------------------------------------------
 
-### System Architecture
+### *System Architecture*
 
 ![](./System_Architecture.png)
 
 --------------------------------------------
 
-### Process Flow
+### *Process Flow*
 
 ![](./Process_Flow.png)
 
 --------------------------------------------
 
-### Use Case Diagram
+### *Use Case Diagram*
 
 ![](./Use_Case_Diagram.png)
 
