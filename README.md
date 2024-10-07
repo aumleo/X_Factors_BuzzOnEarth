@@ -5,6 +5,11 @@ WattSmart Wizard addresses the critical global issue of resource wastage and ine
 -------------------------------------------
 -------------------------------------------
 
+### Intergrated Intel's Tiber Cloud for storing the data collected from the sensors and used Intel's oneDAL Library to perform Machine Learning tasks like Linear Regression for Predictive Analysis.
+
+------------------------------------------
+------------------------------------------
+
 ### *Prototype Videos*
 
 [Prototype Building Video](https://drive.google.com/file/d/1tvZA3WfAX7iffpSlLtlsnMWY1TiCsKvl/view?usp=drive_link)
@@ -39,20 +44,4 @@ WattSmart Wizard addresses the critical global issue of resource wastage and ine
 
 --------------------------------------------
 --------------------------------------------
-
-### *System Architecture*
-
-![](./System_Architecture.png)
-
---------------------------------------------
-
-### *Process Flow*
-
-![](./Process_Flow.png)
-
---------------------------------------------
-
-### *Use Case Diagram*
-
-![](./Use_Case_Diagram.png)
 
